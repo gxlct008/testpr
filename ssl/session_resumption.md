@@ -2,6 +2,7 @@
 
 在上一节我们介绍了 OCSP stapling。本节我们介绍另一种 HTTPS 性能优化的技巧，TLS session resumption。
 
+再修改一下，这次没有 执行 git reset head --hard:
 
 一个 **完整** 的 TLS 握手需要两次：
 
