@@ -2,6 +2,7 @@
 
 在上一节我们介绍了 OCSP stapling。本节我们介绍另一种 HTTPS 性能优化的技巧，TLS session resumption。
 
+这次新建 tls 分支，再次修改并 push，查看是否带上了之前的 commit ?
 
 一个 **完整** 的 TLS 握手需要两次：
 
